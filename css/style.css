@@ -146,6 +146,9 @@ body {
   -o-transition: all .4s ease;
   transition: all .4s ease;
 }
+.headerlogoafroz {
+  max-width: 160px !important;
+}
 
 body.body_overlay {
   position: fixed;
